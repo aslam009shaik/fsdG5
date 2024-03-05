@@ -1,0 +1,90 @@
+
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #0b0000;
+    background-image: url(pic1.jpg);
+}
+
+img{
+    border:1px solid #ccc;
+    border-radius: 50%;
+    margin:  0 auto 15px;
+    float:right;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.fa-instagram{
+color:red;
+}
+.fa-linkedin{
+    color:blue;
+
+}
+.fa-envelope{
+    color:white;
+    background-color: blue;
+}.fa-phone{
+    color:white;
+    background-color:green;
+}
+
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main-content {
+    margin: 20px;
+}
+
+article {
+    background-color: #b5aeae;
+    padding: 20px;
+    color:rgb(15, 5, 21);
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
